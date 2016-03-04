@@ -18,7 +18,7 @@ package bicycle;
  */
 public class Bicycle {
 
-    /** The bicycle's model.! */
+    /** The bicycle's model. */
     private String model;
     /** The engaged front sprocket. */
     private int frontSprocket;
